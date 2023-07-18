@@ -1,0 +1,9 @@
+{
+  "BindAddress": "0.0.0.0",
+  "InternalAddress": "192.168.1.1",
+  "Ports": {
+    "From": 8080,
+    "To": 8081
+  },
+  "Layer7Protection": true
+}
